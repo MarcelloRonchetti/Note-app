@@ -1,11 +1,10 @@
-📝 Note App – React Challenge
-Questa è un'applicazione semplice ma completa per la gestione di note personali, sviluppata con React come parte di una challenge intermedia. L'app permette di creare, modificare, eliminare e cercare note, con salvataggio persistente tramite localStorage.
+Note App – React Challenge
+Questa è un'applicazione semplice ma completa per la gestione di note personali. L'app permette di creare, modificare, eliminare e cercare note, con salvataggio persistente tramite localStorage.
 
 Funzionalità principali
 CRUD completo: aggiunta, modifica e cancellazione delle note
 Ricerca dinamica: per titolo e contenuto
 Categorie e filtri: per tipo di nota e priorità
-Persistenza locale: tramite localStorage
 Responsive design: ottimizzato per dispositivi mobili e desktop
 Navigazione a più pagine: con React Router
 Styling moderno: con styled-components (CSS-in-JS)
@@ -15,7 +14,6 @@ React Router
 Context API + useReducer
 styled-components
 localStorage API
-React Testing Library + Jest (base)
 Struttura del progetto
 bash
 Copia
